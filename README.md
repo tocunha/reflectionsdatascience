@@ -1,1 +1,3 @@
 # reflectionsdatascience
+
+Exercise 2
