@@ -1,0 +1,3 @@
+These files reproduce the tables and figures in Van de Rijt et al. (2014) "Field Experiments of Success-Breeds-Success Dynamics" published in PNAS.
+
+The data files (*.csv) are aggregated either across time or across experimental subjects, and dollar amounts and large counts rounded to the nearest 100 or 1000.
