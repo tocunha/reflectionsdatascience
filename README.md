@@ -7,5 +7,7 @@ Exercise 5 - Calling bullshit with exponential growth. 10/03/2020
 Exercise 6 - Algorithmic bias and fairness. 17/03/2020
 Exercise 7 - Fairness test. 24/03/2020
 Exercise 8 - Replicability. 31/03/2020
+Exercise 9 - Replicability. 21/04/2020
+
 
 ```
